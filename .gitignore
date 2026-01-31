@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# 压缩文件（不需要上传）
+*.zip
+*.rar
+*.7z
+
+# 大型数据文件
+*.mp4
+*.avi
+*.mov
+
+# 临时文件
+*.tmp
+*.temp
+*.log
